@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True account of what past at the election of knights of the shire for the county of Bucks correcting several falsities and mistakes in a late pamphlet entituled A letter from a free-holder of Buckinghamshire to a friend in London &amp;c. in another letter from an assured hand, 1679.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63347</idno>
+            <idno type="STC">Wing T2409</idno>
+            <idno type="STC">ESTC R32895</idno>
+            <idno type="EEBO-CITATION">12777481</idno>
+            <idno type="OCLC">ocm 12777481</idno>
+            <idno type="VID">93784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93784)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True account of what past at the election of knights of the shire for the county of Bucks correcting several falsities and mistakes in a late pamphlet entituled A letter from a free-holder of Buckinghamshire to a friend in London &amp;c. in another letter from an assured hand, 1679.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elections --  England.</term>
+               <term>Buckinghamshire (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:93784:1"/>
+            <pb n="1" facs="tcp:93784:1" rendition="simple:additions"/>
+            <head>A true Account of what paſt at the Election of Knights of the Shire for the County of <hi>B<g ref="char:V">Ʋ</g>CKS,</hi> Correcting ſeveral Falſities and Miſtakes, in a late Pamphlet entituled, <hi>A Letter from a Free-holder of</hi> Buckinghamſhire, <hi>to a Friend in</hi> London, <hi>&amp;c.</hi> in another Letter from an aſſured Hand. <hi>1679.</hi>
+            </head>
+            <p>YOU oblige me very much in ſending me the News of the Town, ac<g ref="char:EOLhyphen"/>companied with thoſe many Pamphlets, whereof I perceive the Preſs (at this time without reſtraint) is grown very fruitful, being now made uſe of, not only to give vent to Publick Diſcontents, but alſo to ſerve private and particular turns; of which that Pamphlet entituled, <hi>A Letter from a Free-holder of</hi> Buckinghamſhire <hi>to a Friend in</hi> London, concerning the Election of Knights of the Shire for the ſaid County, is a pregnant inſtance; an impartial account whereof, ſince you are pleaſed to require it from me, being an Affair at which I was preſent, and privy to the whole tranſaction, I cannot refuſe to give you.</p>
+            <p>And firſt, I muſt neceſſarily inform you of the occaſion of this Adjournment; the High-Sheriff being a Neighbour of the Town of <hi>Buckingham,</hi> and having before the laſt Parliament ingag'd himſelf to ſeveral Perſons of Quality (his Neighbours) to appoint the ſaid Election there, being the Ancient Shire-Town, and having laid his Commands upon the Under-Sheriff for that purpoſe; never<g ref="char:EOLhyphen"/>theleſs, contrary to his duty, he being an Inhabitant of <hi>Ailesbury,</hi> was prevail'd with to bring the ſaid Election thither, without the privity or conſent of his High-Sheriff, of which practice the High-Sheriff expreſſed a great reſentment at the time of the ſaid Election, and was hardly diſſwaded by the Duke of <hi>Bucks,</hi> and the reſt of the Gentlemen then preſent, from adjourning the ſame then to <hi>Buckingham,</hi> the Under-Sheriff alſo ſerving himſelf of their Interceſſion to ſalve this matter, and promiſing faithfully, if the like opportunity happened, during his Shrievalty, that he would not fail to deliver the Writ to the High-Sheriff, and obſerve his Commands in all things relating thereunto; which promiſe he alſo renew'd ſeveral times ſince the laſt diſſolution, at the laſt Aſſizes, and after, both by word and Letter.</p>
+            <p>Mr. <hi>Hampden</hi> the younger having obtained the Writ for this laſt Election, cau<g ref="char:EOLhyphen"/>ſed the ſame to be delivered to the Under-Sheriff, who gave an account thereof to his High-Sheriff by Letter of the 6th of <hi>Auguſt,</hi> profeſſing therein, that if his High-Sheriff had any intentions of bringing it to <hi>Bucks,</hi> he was ready to obey him therein: whereupon he ſent to him to attend him with the Writ, but the next day, being the 7th of <hi>Aug.</hi> he received another Letter from him, intima<g ref="char:EOLhyphen"/>ting, that at the Election of <hi>Ailesbury,</hi> he had been ſo threatned by the Gentle<g ref="char:EOLhyphen"/>men that met upon that occaſion, that both he and his High-Sheriff ſhould be complain'd of in the next Parliament, in caſe they adjourn'd the Court, that he durſt not but repreſent the ſame to him, and further, in a Poſtſcript, ſaid, that Pannick fear they put him into had ſo prevail'd upon him, that he had iſſued forth Precepts to give notice, that the next County-Court was to be held at <hi>Aileſ<g ref="char:EOLhyphen"/>bury,</hi> but no way to limit the Election to be held there, as is falſly related in the ſaid Pamphlet.</p>
+            <pb n="2" facs="tcp:93784:2"/>
+            <p>The High-Sheriff thereupon, to prevent all unneceſſary trouble to the Coun<g ref="char:EOLhyphen"/>try, did iſſue forth his Precepts immediately to all his Bayliffs of the ſeveral Hundred of the County, to give notice to the High-Conſtables of each Divi<g ref="char:EOLhyphen"/>ſion, willing them to give notice to the Petty Conſtables of his Reſolutions to adjourn the ſame County-Court to <hi>Buckingham,</hi> which were duly executed by all the Bayliffs in all parts of the County, but ſtopt and ſuppreſſed in the hands of the High-Conſtables in the three Hundreds of the <hi>Chiltren,</hi> and other parts about <hi>Ailesbury,</hi> by the endeavours of ſome Gentlemen that were concerned for <hi>Ailesbury,</hi> to whom the Country, if they received any unneceſſary trouble there<g ref="char:EOLhyphen"/>by, and not to the High-Sheriff, do owe the blame; and not that the Bayliffs did decline it upon any Illegality, as is falſly ſuggeſted.</p>
+            <p>Which Reſolution the ſaid High-Sheriff had taken in favour of Sir <hi>Peter Tyr<g ref="char:EOLhyphen"/>rell,</hi> and his Party, who ſtood in Competition with the Lord <hi>Lattymer,</hi> and whoſe Intereſt was Eſpous'd at the former Election by the Duke of <hi>Bucks,</hi> in a very ſtrange and extraordinary manner (of which I ſuppoſe you are not igno<g ref="char:EOLhyphen"/>rant) as alſo at this laſt Election, although he was not preſent, as he deſign<g ref="char:EOLhyphen"/>ed to be, whoſe not ſucceeding therein, is the true ground of all that rancour and animoſity the Duke hath expreſſed againſt the Town, and Sir <hi>Richard Tem<g ref="char:EOLhyphen"/>ple,</hi> and of all thoſe Libels againſt them, and nick-names ſo often mentioned in that Pamphlet, which hath been ſo falſly given him, of which I think it no unneceſſary digreſſion to give you this ſhort accompt.</p>
+            <p>The Town of <hi>Bucks,</hi> after the Diſſolution of the Convention that brought in the King; having ſeverally given their words to Sir <hi>Richard Temple,</hi> and Sir <hi>William Smith,</hi> to chuſe them as Burgeſſes for the next Parliament, and the Duke of <hi>Bucks</hi> having ingaged Sir <hi>Richard</hi> to promote his Secretary, Mr. <hi>Mat<g ref="char:EOLhyphen"/>thew Clifford,</hi> Sir <hi>William Smith</hi> called in Mr. <hi>John Dormer</hi> of <hi>Lee,</hi> lately de<g ref="char:EOLhyphen"/>ceaſed, to joyn againſt him; but finding their Intereſt too weak, betook them<g ref="char:EOLhyphen"/>ſelves to ſeveral Arts to draw off the Town from Sir <hi>Richard;</hi> amongſt the reſt, they wrote a Letter to the Town, taking notice, that the Town was impo<g ref="char:EOLhyphen"/>veriſht much for want of Publick Meetings, and ſuppos'd the greateſt cauſe was, the want of a convenient <hi>Town-Hall,</hi> which they were reſolv'd to build; of which Propoſition Sir <hi>R. T.</hi> having notice, wrote a Letter to the Town from <hi>London,</hi> to this effect, That he hoped thoſe Gentlemen had no deſign to ſtand for Bur<g ref="char:EOLhyphen"/>geſſes, ſince ſuch practices would make the Election illegal, and void; for which reaſon, he hoped the Town did not expect, that at this time he ſhould follow their Example: Nevertheleſs, this Propoſition was ſo purſued in his abſence by the aforeſaid Gentlemen, that the Ground was view'd, and three hundred pounds laid down by Mr. <hi>Dormer,</hi> Sir <hi>William Smith</hi> ingaging to lay down the other three hundred; whereupon a Friend of Sir <hi>R. T</hi>'s. that lived in the Town, being ſent to by the Bayliff and Burgeſſes, the matter was preſſed upon him, that theſe Gent. had thought it lawful and ſafe to do this for the Town, and therefore Sir <hi>R.</hi> ought not to decline doing ſomething for them; he apprehend<g ref="char:EOLhyphen"/>ing leſt this ſhould cauſe ſome ſudden change in them towards Sir <hi>R.</hi> told them, that though he had no order from Sir <hi>R.</hi> yet he would venture to begin the build<g ref="char:EOLhyphen"/>ing of one half of it, if the other two Gentlemen would build the other half, and immediately ſent to know what Timber was in the Town, and bought it up to the value of forty pound, and if it were ſafe, he ſaid he doubted not Sir <hi>R.</hi> would thank him for it, and go thorow with it; but as ſoon as Sir <hi>R.</hi> had advice thereof, he writ him word that it was a thing not to be done, and he would come down and further ſatisfy both him and his Friends concerning it; which he did forth<g ref="char:EOLhyphen"/>with, and then calling the Bayliff and Burgeſſes together, declared that he nei<g ref="char:EOLhyphen"/>ther could nor would ingage in this or any like matter, whether they would chuſe him or no; and after this he had but ſix Voices, and Mr. <hi>Dormer</hi> five, and
+<pb n="3" facs="tcp:93784:2"/>the Competition was very hot between them who ſhould gain the other two, which when Sir <hi>R. T.</hi> effected, <hi>Dormer</hi> turned over all his Voices to Sir <hi>Wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iam Tyrringham,</hi> with whom alſo he had a great Conteſt, who without doubt could they have made any thing of this ſtory, would have made uſe of it againſt him; though it be now revived by his Enemies, upon this occaſion, to colour their irregular proceeding at the former Election. But that he ever carried a chip of this away from the Town, or brought any thither, as hath been falſly and ma<g ref="char:EOLhyphen"/>liciouſly reported, is well know to the Town and Country to be a notorious un<g ref="char:EOLhyphen"/>truth, the ſame having remain'd ever ſince in the Town where it was bought, and having been long ſince given to the Town, to be imployed as they ſhould think fit.</p>
+            <p>But to return to our former ſtory; Sir <hi>Peter Tyrrel</hi> and his friends, having the Conduct of the bringing the Election to <hi>Buckingham,</hi> accompanied the High Sherriff to <hi>Ailesbury</hi> on <hi>Tueſday</hi> the 19. of <hi>Aug.</hi> cir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ying with him as many Free-holders, as might make a Jury; nor was Sir <hi>R. T.</hi> called into it until the matter was actually to be done, when the High Sherriff invited him to go along with him to <hi>Ailesbury,</hi> but ſome occaſions prevented him that he came after him.</p>
+            <p>The next morning was appointed for them all to meet in Court, where the ad<g ref="char:EOLhyphen"/>journment was delayed till near eight of the clock, for the Under-Sherriffs coming; nor did the ſaid Mr. <hi>Hambden</hi> or the Countrey come in till after eight, or the Duke of <hi>Buckingham,</hi> though he came there over-night, expreſs any diſſatisfacti<g ref="char:EOLhyphen"/>on to the High-Sherriff, or oppoſition to the adjournment, the obligation he had to the Town of <hi>Buckingham,</hi> and concern for Sir <hi>P. T.</hi> making the Sherriff and all others believe he came in favour of it, though it appeared quite contrary afterwards.</p>
+            <p>The Duke of <hi>Buckingham</hi> at the inſtigation (as is ſuppoſed) of the Tar-box Juſtice Sir <hi>J. B.</hi> an upſtart and great incendiary amongſt his Neighbours, and a profeſſed enemy to <hi>Buckingham;</hi> having borrowed the Chair at the laſt Seſſions, to affront and abuſe the Town, and reviled them at the laſt Aſſizes; for which he was juſtly and publickly rebuked by the Judge, did endeavour to ingage the Country, who were come into <hi>Ailesbury,</hi> to make a halt at <hi>Winſlow,</hi> and the next morning arriving before eight of the Clock at <hi>Buckingham,</hi> prevailed with the under Sherriff to put a further affront upon the High Sherriff, and adjourned the Court before he came, which was not long after eight. But as for the accident that is related of the Sherriffs encounter with a Parſon, there is nothing more no<g ref="char:EOLhyphen"/>toriouſly falſe; the matter being barely thus, that the Inn yard, to which the Court was adjourned, being very full, the Sheriff at his entrance finding his way obſtruct<g ref="char:EOLhyphen"/>ed, and his men endeavouring to make way, he clapt Spurs to his Horſe to ride in, and by accident the Horſes hind legs ſlipt up and fell with him, but there was neither a crying out a <hi>Hambden</hi> or a <hi>Wharton</hi> by the Parſon, nor a whipping of him by the Sherriff, or any attempt of the Parſon upon the Sheriff, or other mat<g ref="char:EOLhyphen"/>ters, ſave only that he ſtood in the way accidentally next him with others; theſe paſſages being not only falſe but very rediculous, the Sherriff having half a ſcore men with him well Hors'd and Arm'd, who certainly would not have endured any affront to be put upon him of this kind.</p>
+            <p>As to that Adventure of his Son, the matter was thus; The Son was ſent by the Father to the Under-Sherriff, to know, ſince the Election was paſt, where the Indentures would be ſealed; which Meſſage the Son delivered ſome thing too pleaſantly, calling him Mr. High-Sherriff, to which the Under-Sherriff replyed, That he was ſealing them there upon the place; he added afterwards, as he re<g ref="char:EOLhyphen"/>lated to his Father, not the demand of a Poll; but whether any Poll had been demanded, which he alledged he did for his Father's ſecurity, ſince the Return was making, for that at his coming out of Town, the Streets being full of Free holders, cryed, a <hi>Cheſter,</hi> and a <hi>Verney,</hi> as it ſeems they had done the
+<pb n="4" facs="tcp:93784:3"/>Night before, not twenty or thirty Boyes by order, as is related, but by <hi>New<g ref="char:EOLhyphen"/>port</hi> three Hundreds, who came there the day before, and lodged there all night; but we will ſuppoſe he made ſuch demand as is related, though the Crowd that was about him was ſuch at the delivery of his meſſage, and the noiſe, that thoſe that were neareſt him were not able to give any true account thereof, and that he erred in the Method of it, in not naming the perſon; yet having declined it, when better informed, and rid civilly away from the Company, yet he being a Free-holder, at preſent had a right to demand a Poll if he would, and might fur<g ref="char:EOLhyphen"/>ther have inſiſted upon it for thoſe Gentlemen that were cryed up; there<g ref="char:EOLhyphen"/>fore there was little ground for that notorious riot then committed; which was begun by an eminent and over-buſie perſon, who, upon his going off, call<g ref="char:EOLhyphen"/>ed to him to ſpeak with him, and when he came up to him ſtruck him with a great Truncheon of Oak which he brought with him into the Field, though the blow fell ſhort of his Head, and bruſhing on his Belly lighted upon his Horſe, by whoſe Example the Multitude were encouraged to follow him into the Town, not only with Whips, but naked Swords, crying, <hi>kill him, prick him in the back,</hi> and ſeveral times ſtopping of him in the way, and endeavouring to pull him off his Horſe, and purſued him with that violence into the Town, that he was forced to run in at a Wicket of a Gate to ſave his life, where his Horſe could ſcarce be brought out afterward; nor were they herewith appeaſed, but endeavoured forcibly to enter the Houſe, breaking the Windows, and ſearching the Stables for his Horſe, and affrighted the Maid-Servant to that degree with Swords and Piſtols, that they put her into Convulſion-Fits, and purſued their Riot, until by ſome of the Sherriffs men that were left behind him, and Conſta<g ref="char:EOLhyphen"/>bles of the Town, they were endeavoured to be ſeized and chaſed back; of all which proceedings, I ſuppoſe, there will be a further account taken accord<g ref="char:EOLhyphen"/>ing to Law. As to thoſe reproachful words they gave of the Burgeſſes that were choſen, it was begun only by Sir <hi>Tarbox Busby,</hi> and ſome ſmall party that followed him of the Rabble, and not ſeconded by any perſon of Quality; nor did the Knights of the Shire, nor any other that I could be informed of, declare any averſion to the Town upon the account of the Election, but were willing e<g ref="char:EOLhyphen"/>nough to have ſtaid in the Town, had it not been for the Duke of <hi>Buckingham,</hi> and the aforeſaid Sir <hi>T. B.</hi>
+            </p>
+            <p>Thus, Sir, I have given you a juſt account of this <hi>matter,</hi> I ſhall now only add, that it is worth the remarking, that thoſe who gave their Voices for Sir <hi>Peter Tyrrel,</hi> at the Election of the Town, all offered their ſervices to the Lord <hi>Latty<g ref="char:EOLhyphen"/>mer</hi> before, and at the very morning of the Election, though they take all ways by Libels and otherwiſe to reproach the Town for it, and that the intermedling of Peers of the Realm in Elections, made by the Commons, is very illegal, and hath been frequently complained of in Parliament, as a high Invaſion of the li<g ref="char:EOLhyphen"/>berty of the Subject, and may be of evil Conſequence if countenanced for the future.</p>
+            <closer>
+               <dateline>Buckingham, <date>
+                     <hi>Aug.</hi>30. 1679.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93784:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
